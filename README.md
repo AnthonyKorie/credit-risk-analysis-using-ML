@@ -12,7 +12,7 @@ Dataset can be download at: https://www.kaggle.com/datasets/pradip11/amexpert-co
 
 ## EDA - Feature Engineering - Modeling
 The detailed processes can be found in our notebook. 
-You can access full here: https://github.com/maixbach/credit-risk-analysis-using-ML/blob/main/Credit%20Risk%20Analysis%20-%20Mai%20Xuan%20Bach.ipynb
+You can access full here: https://github.com/AnthonyKorie/credit-risk-analysis-using-ML/blob/main/Credit%20Risk%20Analysis%20-%20Mai%20Xuan%20Bach.ipynb
 
 ## Experimental result
 Model         | Accuracy
